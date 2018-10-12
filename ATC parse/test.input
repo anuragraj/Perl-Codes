@@ -1,0 +1,100 @@
+label	k
+A - ALIMENTARY TRACT AND METABOLISM	nd0
+A01 - STOMATOLOGICAL PREPARATIONS	nd1
+A01A - STOMATOLOGICAL PREPARATIONS	nd2
+A01AB - Antiinfectives and antiseptics for local oral treatment	nd3
+Amphotericin B	A01AB4
+Chlorhexidine	A01AB5
+Clotrimazole	A01AB6
+Doxycycline	A01AB7
+Metronidazole	A01AB8
+Miconazole	A01AB9
+Minocycline	A01AB10
+Natamycin	A01AB11
+Neomycin	A01AB12
+Tetracycline	A01AB13
+A01AC - Corticosteroids for local oral treatment	nd14
+Cortisol	A01AC15
+Dexamethasone	A01AC16
+Triamcinolone	A01AC17
+A01AD - Other agents for local oral treatment	nd18
+Amlexanox	A01AD19
+Aspirin	A01AD20
+Benzydamine	A01AD21
+Epinephrine	A01AD22
+A02 - DRUGS FOR ACID RELATED DISORDERS	nd23
+A02B - DRUGS FOR PEPTIC ULCER AND GASTRO-OESOPHAGEAL REFLUX DISEASE (GORD)	nd24
+A02BA - H	nd25
+Cimetidine	A02BA26
+Famotidine	A02BA27
+Nizatidine	A02BA28
+Ranitidine	A02BA29
+A02BB - Prostaglandins	nd30
+Misoprostol	A02BB31
+A02BC - Proton pump inhibitors	nd32
+Lansoprazole	A02BC33
+Omeprazole	A02BC34
+Pantoprazole	A02BC35
+Rabeprazole	A02BC36
+A03 - DRUGS FOR FUNCTIONAL GASTROINTESTINAL DISORDERS	nd37
+A03A - DRUGS FOR FUNCTIONAL GASTROINTESTINAL DISORDERS	nd38
+"A03AA - Synthetic anticholinergics, esters with tertiary amino group"	nd39
+Dicyclomine	A03AA40
+Mebeverine	A03AA41
+"A03AB - Synthetic anticholinergics, quaternary ammonium compounds"	nd42
+Cantril	A03AB43
+Glycopyrrolate	A03AB44
+Propantheline	A03AB45
+A03AD - Papaverine and derivatives	nd46
+Papaverine	A03AD47
+A03AE - Serotonin receptor antagonists	nd48
+Alosetron	A03AE49
+Prucalopride	A03AE50
+Tegaserod	A03AE51
+A03AX - Other drugs for functional gastrointestinal disorders	nd52
+Pinaverium bromide	A03AX53
+"A03B - BELLADONNA AND DERIVATIVES, PLAIN"	nd54
+"A03BA - Belladonna alkaloids, tertiary amines"	nd55
+Atropine	A03BA56
+"A03BB - Belladonna alkaloids, semisynthetic, quaternary ammonium compounds"	nd57
+Buscopan	A03BB58
+N-methylscopolamine	A03BB59
+A03F - PROPULSIVES	nd60
+A03FA - Propulsives	nd61
+Domperidone	A03FA62
+Metoclopramide	A03FA63
+A04 - ANTIEMETICS AND ANTINAUSEANTS	nd64
+A04A - ANTIEMETICS AND ANTINAUSEANTS	nd65
+A04AA - Serotonin (5HT3) antagonists	nd66
+Dolasetron	A04AA67
+Granisetron	A04AA68
+Ondansetron	A04AA69
+Palonosetron	A04AA70
+Tropisetron	A04AA71
+A04AD - Other antiemetics	nd72
+Aprepitant	A04AD73
+Delta 9-THC	A04AD74
+Nabilone	A04AD75
+Scopolamine	A04AD76
+A05 - BILE AND LIVER THERAPY	nd77
+A05A - BILE THERAPY	nd78
+A05AA - Bile acid preparations	nd79
+Bile salt	A05AA80
+UDCA	A05AA81
+A06 - DRUGS FOR CONSTIPATION	nd82
+A06A - DRUGS FOR CONSTIPATION	nd83
+A06AB - Contact laxatives	nd84
+Bisacodyl	A06AB85
+A06AC - Bulk-forming laxatives	nd86
+Trazodone	A06AC87
+A06AD - Osmotically acting laxatives	nd88
+Lactulose	A06AD89
+Mannitol	A06AD90
+A06AG - Enemas	nd91
+Bisacodyl	A06AG92
+Glycerol	A06AG93
+Mannitol	A06AG94
+A06AH - Peripheral opioid receptor antagonists	nd95
+Alvimopan	A06AH96
+Methylnaltrexone	A06AH97
+A06AX - Other drugs for constipation	nd98te
